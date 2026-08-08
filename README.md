@@ -90,9 +90,9 @@ Entity를 상속받아 체력, 스탯 등의 공통 기능을 재사용하고,
  - 새로운 공격 추가가 용이
  - 몬스터별 공격 조합 가능
 
-! [Attack Pattern 구조도](/Image/ProjectCube-AttackPattern1.drawio.png)
-! [Attack Pattern 구조도](/Image/ProjectCube-AttackPattern2.drawio.png)
-! [Attack Pattern 구조도](/Image/ProjectCube-AttackPattern3.drawio.png)
+![Attack Pattern 구조도](/Image/ProjectCube-AttackPattern1.drawio.png)
+![Attack Pattern 구조도](/Image/ProjectCube-AttackPattern2.drawio.png)
+![Attack Pattern 구조도](/Image/ProjectCube-AttackPattern3.drawio.png)
 
 ## Monster AI
 
